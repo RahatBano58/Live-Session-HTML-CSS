@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    margin-top: 5px;
+
+}
+h1{
+    background-color: darkcyan;
+    color: black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+
+
+}
+.main{
+    background-color: orchid;
+    color: black;
+    align-items: center;
+}
+
+.main h2 {
+    background-color: orchid;
+    color: black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    padding-left: 15 px;
+    margin-bottom: 5px;
+
+
+}
+.main p{
+    background-color: orchid;
+    color: black;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-left:  30px;
+    padding-left: 15 px;
+    margin-bottom: 5px;
+}
+.a{
+    background-color:darksalmon;
+    color: black;
+}
+
+
+
+.a h3{
+    background-color:darksalmon;
+    align-items: center;
+    margin-bottom: 5px;
+    justify-content: center;
+    display: flex;
+}
+
+.a p{
+    background-color:darksalmon;
+    align-items: center;
+    text-decoration: none;
+    margin-bottom: 5px;
+    margin-left: 30px;
+}
+
+.b{
+    background-color: rgb(90, 232, 137) ;
+    color: black;
+    align-items: center;
+}
+.b h3{
+    background-color: rgb(90, 232, 137) ;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 5px;
+}
+.b p{
+    background-color: rgb(90, 232, 137) ;
+    align-items: center;
+    text-decoration: none;
+    margin-bottom: 5px;
+    margin-left: 30px ;
+
+}
+h2{
+    background-color: rgb(241, 196, 133);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.c{
+    background-color: bisque;
+    color: black;
+    align-items: center;
+}
+.c ol h3{
+    background-color: bisque;
+    color: black; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.c p{
+    background-color: bisque;
+    color: black; 
+    font-weight: bold ;
+    margin-left: 30px ;
+}
+.c ul li{
+    background-color: bisque;
+    color: black;
+    margin-bottom: 5px;
+    font-weight: bold ;
+    margin-left: 30px ;
+}
+
+.d{
+    background-color: rgb(138, 232, 217);
+    color: black;
+    align-items: center;
+}
+
+
+.d ol h3{
+    background-color: rgb(138, 232, 217);
+    color: black; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.d p{
+    background-color: rgb(138, 232, 217);
+    color: black; 
+    font-weight: bold ;
+    margin-left: 30px ;
+}
+
+.d ul li{
+    background-color: rgb(138, 232, 217);
+    color: black;
+    margin-bottom: 5px;
+    font-weight: bold ;
+    margin-left: 30px ;
+}
+
+.e {
+    background-color: rgb(202, 130, 130);
+    color: black;
+    align-items: center;
+}
+
+.e ol h3{
+    background-color: rgb(202, 130, 130);
+    color: black; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.e p{
+    background-color: rgb(202, 130, 130);
+    color: black; 
+    font-weight: bold ;
+    margin-left: 30px ;
+}
+
+.e ul li{
+    background-color: rgb(202, 130, 130);
+    color: black;
+    margin-bottom: 5px;
+    font-weight: bold ;
+    margin-left: 30px ;
+}
+
+.f {
+    background-color: mediumorchid;
+    color: black;
+    align-items: center;
+}
+
+.f ol h3{
+    background-color: mediumorchid;
+    color: black; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.f p{
+    background-color: mediumorchid;;
+    color: black; 
+    font-weight: bold ;
+    margin-left: 30px ;
+}
+
+.f ul li{
+    background-color: mediumorchid;
+    color: black;
+    margin-bottom: 5px;
+    font-weight: bold ;
+    margin-left: 30px ;
+}
+
+.g{
+    background-color: lightgreen;
+    margin-top: 5px;
+    margin-bottom: 5px ;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+
+}

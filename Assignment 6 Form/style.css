@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/107/174/small/beautiful-abstract-bokeh-background.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fieldset{
+    border: 5px solid rgb(189, 28, 222);
+    border-radius: 2rem;
+    align-items: center;
+    box-shadow: 05px 10px 10px rgb(151, 43, 126);
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-top: 5px;
+    padding-left: 20px;
+    width: 550px;
+    height: 650px;
+    padding-bottom: 10px;
+    background-image: url(https://img.freepik.com/premium-photo/background-hyper-realistic-colorful-beautiful-wallpaper-hd-best-quality-image_859483-330147.jpg);
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.fieldset table h1{
+    text-align: center;
+}
+.fieldset form{
+    text-align: left;
+}
+.table tr td{
+    text-align: center;
+}
+.table tr td button{
+    width: 70px;
+    height: 30px;
+}
+.btn-submit{
+
+    border-radius: 4rem;
+    border:solid 4px rgb(167, 40, 108);
+    color: rgb(5, 5, 5);
+    cursor: pointer;
+    text-align: center;
+    font-size: 20px;
+    height: 50px;
+    width: 140px;
+    outline: none; 
+}
+.btn-submit:hover{
+    background-color: rgb(199, 127, 239);
+}
